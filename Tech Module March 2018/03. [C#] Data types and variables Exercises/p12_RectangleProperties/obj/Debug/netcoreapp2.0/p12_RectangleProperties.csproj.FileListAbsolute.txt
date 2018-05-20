@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\bin\Debug\netcoreapp2.0\p12_RectangleProperties.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\bin\Debug\netcoreapp2.0\p12_RectangleProperties.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\bin\Debug\netcoreapp2.0\p12_RectangleProperties.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\bin\Debug\netcoreapp2.0\p12_RectangleProperties.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\bin\Debug\netcoreapp2.0\p12_RectangleProperties.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\obj\Debug\netcoreapp2.0\p12_RectangleProperties.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\obj\Debug\netcoreapp2.0\p12_RectangleProperties.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\obj\Debug\netcoreapp2.0\p12_RectangleProperties.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\obj\Debug\netcoreapp2.0\p12_RectangleProperties.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p12_RectangleProperties\obj\Debug\netcoreapp2.0\p12_RectangleProperties.pdb

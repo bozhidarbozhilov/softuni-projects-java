@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\bin\Debug\netcoreapp2.0\p12_TestNumbers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\bin\Debug\netcoreapp2.0\p12_TestNumbers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\bin\Debug\netcoreapp2.0\p12_TestNumbers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\bin\Debug\netcoreapp2.0\p12_TestNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\bin\Debug\netcoreapp2.0\p12_TestNumbers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p12_TestNumbers\obj\Debug\netcoreapp2.0\p12_TestNumbers.pdb

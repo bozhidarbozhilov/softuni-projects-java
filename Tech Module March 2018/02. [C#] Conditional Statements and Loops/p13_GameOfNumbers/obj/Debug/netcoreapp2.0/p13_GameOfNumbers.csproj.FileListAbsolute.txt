@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.pdb

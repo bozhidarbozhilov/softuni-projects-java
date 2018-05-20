@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\p09_CountTheIntegers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\p09_CountTheIntegers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\p09_CountTheIntegers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\p09_CountTheIntegers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\bin\Debug\netcoreapp2.0\p09_CountTheIntegers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p09_CountTheIntegers\obj\Debug\netcoreapp2.0\p09_CountTheIntegers.pdb

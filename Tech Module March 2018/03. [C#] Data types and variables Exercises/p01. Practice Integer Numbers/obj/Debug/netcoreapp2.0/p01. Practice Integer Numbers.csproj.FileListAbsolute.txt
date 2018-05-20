@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\p01. Practice Integer Numbers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\p01. Practice Integer Numbers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\p01. Practice Integer Numbers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\p01. Practice Integer Numbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\p01. Practice Integer Numbers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\p01. Practice Integer Numbers.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\bin\Debug\netcoreapp2.0\p07_Exchange Variable Values.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\bin\Debug\netcoreapp2.0\p07_Exchange Variable Values.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\bin\Debug\netcoreapp2.0\p07_Exchange Variable Values.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\bin\Debug\netcoreapp2.0\p07_Exchange Variable Values.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\bin\Debug\netcoreapp2.0\p07_Exchange Variable Values.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\obj\Debug\netcoreapp2.0\p07_Exchange Variable Values.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\obj\Debug\netcoreapp2.0\p07_Exchange Variable Values.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\obj\Debug\netcoreapp2.0\p07_Exchange Variable Values.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\obj\Debug\netcoreapp2.0\p07_Exchange Variable Values.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p07_Exchange Variable Values\obj\Debug\netcoreapp2.0\p07_Exchange Variable Values.pdb

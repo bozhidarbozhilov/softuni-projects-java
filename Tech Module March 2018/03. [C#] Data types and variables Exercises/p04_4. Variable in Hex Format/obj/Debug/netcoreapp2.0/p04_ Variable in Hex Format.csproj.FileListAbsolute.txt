@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\bin\Debug\netcoreapp2.0\p04_ Variable in Hex Format.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\bin\Debug\netcoreapp2.0\p04_ Variable in Hex Format.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\bin\Debug\netcoreapp2.0\p04_ Variable in Hex Format.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\bin\Debug\netcoreapp2.0\p04_ Variable in Hex Format.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\bin\Debug\netcoreapp2.0\p04_ Variable in Hex Format.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p04_4. Variable in Hex Format\obj\Debug\netcoreapp2.0\p04_ Variable in Hex Format.pdb

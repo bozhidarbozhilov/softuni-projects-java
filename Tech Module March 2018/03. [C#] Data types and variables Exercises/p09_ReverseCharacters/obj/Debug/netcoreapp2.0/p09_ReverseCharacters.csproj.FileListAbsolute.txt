@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\bin\Debug\netcoreapp2.0\p09_ReverseCharacters.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\bin\Debug\netcoreapp2.0\p09_ReverseCharacters.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\bin\Debug\netcoreapp2.0\p09_ReverseCharacters.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\bin\Debug\netcoreapp2.0\p09_ReverseCharacters.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\bin\Debug\netcoreapp2.0\p09_ReverseCharacters.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p09_ReverseCharacters\obj\Debug\netcoreapp2.0\p09_ReverseCharacters.pdb

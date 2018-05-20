@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\bin\Debug\netcoreapp2.0\p03_Practice Chars and Strings.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\bin\Debug\netcoreapp2.0\p03_Practice Chars and Strings.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\bin\Debug\netcoreapp2.0\p03_Practice Chars and Strings.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\bin\Debug\netcoreapp2.0\p03_Practice Chars and Strings.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\bin\Debug\netcoreapp2.0\p03_Practice Chars and Strings.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\obj\Debug\netcoreapp2.0\p03_Practice Chars and Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\obj\Debug\netcoreapp2.0\p03_Practice Chars and Strings.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\obj\Debug\netcoreapp2.0\p03_Practice Chars and Strings.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\obj\Debug\netcoreapp2.0\p03_Practice Chars and Strings.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p03_Practice Chars and Strings\obj\Debug\netcoreapp2.0\p03_Practice Chars and Strings.pdb

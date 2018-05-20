@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\bin\Debug\netcoreapp2.0\p06_Strings and Objects.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\bin\Debug\netcoreapp2.0\p06_Strings and Objects.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\bin\Debug\netcoreapp2.0\p06_Strings and Objects.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\bin\Debug\netcoreapp2.0\p06_Strings and Objects.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\bin\Debug\netcoreapp2.0\p06_Strings and Objects.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\obj\Debug\netcoreapp2.0\p06_Strings and Objects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\obj\Debug\netcoreapp2.0\p06_Strings and Objects.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\obj\Debug\netcoreapp2.0\p06_Strings and Objects.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\obj\Debug\netcoreapp2.0\p06_Strings and Objects.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p06_Strings and Objects\obj\Debug\netcoreapp2.0\p06_Strings and Objects.pdb

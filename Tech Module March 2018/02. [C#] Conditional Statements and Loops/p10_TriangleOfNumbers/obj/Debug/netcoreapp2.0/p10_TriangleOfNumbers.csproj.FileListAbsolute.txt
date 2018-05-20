@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\bin\Debug\netcoreapp2.0\p10_TriangleOfNumbers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\bin\Debug\netcoreapp2.0\p10_TriangleOfNumbers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\bin\Debug\netcoreapp2.0\p10_TriangleOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\bin\Debug\netcoreapp2.0\p10_TriangleOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\bin\Debug\netcoreapp2.0\p10_TriangleOfNumbers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p10_TriangleOfNumbers\obj\Debug\netcoreapp2.0\p10_TriangleOfNumbers.pdb

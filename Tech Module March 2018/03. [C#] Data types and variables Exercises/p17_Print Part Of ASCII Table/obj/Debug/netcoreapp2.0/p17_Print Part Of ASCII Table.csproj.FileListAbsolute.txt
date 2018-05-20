@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p17_Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\p17_Print Part Of ASCII Table.pdb

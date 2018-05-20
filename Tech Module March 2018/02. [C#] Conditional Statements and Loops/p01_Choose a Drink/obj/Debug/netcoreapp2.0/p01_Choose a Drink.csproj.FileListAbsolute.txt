@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\bin\Debug\netcoreapp2.0\p01_Choose a Drink.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\bin\Debug\netcoreapp2.0\p01_Choose a Drink.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\bin\Debug\netcoreapp2.0\p01_Choose a Drink.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\bin\Debug\netcoreapp2.0\p01_Choose a Drink.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\bin\Debug\netcoreapp2.0\p01_Choose a Drink.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p01_Choose a Drink\obj\Debug\netcoreapp2.0\p01_Choose a Drink.pdb

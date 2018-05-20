@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\bin\Debug\netcoreapp2.0\p19_TheaPhotographer.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\bin\Debug\netcoreapp2.0\p19_TheaPhotographer.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\bin\Debug\netcoreapp2.0\p19_TheaPhotographer.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\bin\Debug\netcoreapp2.0\p19_TheaPhotographer.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\bin\Debug\netcoreapp2.0\p19_TheaPhotographer.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p19_TheaPhotographer\obj\Debug\netcoreapp2.0\p19_TheaPhotographer.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\bin\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\bin\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\bin\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\bin\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\bin\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p10_Centuries to miliseconds\obj\Debug\netcoreapp2.0\p10_Centuries_to_miliseconds.pdb

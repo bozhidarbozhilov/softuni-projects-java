@@ -1,0 +1,10 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\bin\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p15_PrimeCheckerRefactor\obj\Debug\netcoreapp2.0\p15_PrimeCheckerRefactor.pdb

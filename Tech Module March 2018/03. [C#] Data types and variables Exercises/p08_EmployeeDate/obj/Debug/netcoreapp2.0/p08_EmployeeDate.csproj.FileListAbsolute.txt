@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\bin\Debug\netcoreapp2.0\p08_EmployeeDate.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\bin\Debug\netcoreapp2.0\p08_EmployeeDate.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\bin\Debug\netcoreapp2.0\p08_EmployeeDate.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\bin\Debug\netcoreapp2.0\p08_EmployeeDate.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\bin\Debug\netcoreapp2.0\p08_EmployeeDate.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p08_EmployeeDate\obj\Debug\netcoreapp2.0\p08_EmployeeDate.pdb

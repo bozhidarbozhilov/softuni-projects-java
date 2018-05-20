@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\bin\Debug\netcoreapp2.0\p15_Neighbour Wars.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\bin\Debug\netcoreapp2.0\p15_Neighbour Wars.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\bin\Debug\netcoreapp2.0\p15_Neighbour Wars.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\bin\Debug\netcoreapp2.0\p15_Neighbour Wars.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\bin\Debug\netcoreapp2.0\p15_Neighbour Wars.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p15_Neighbour Wars\obj\Debug\netcoreapp2.0\p15_Neighbour Wars.pdb

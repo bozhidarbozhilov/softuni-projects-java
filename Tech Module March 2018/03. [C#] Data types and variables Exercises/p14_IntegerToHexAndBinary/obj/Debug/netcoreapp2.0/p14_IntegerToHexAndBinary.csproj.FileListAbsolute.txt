@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p14_IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\p14_IntegerToHexAndBinary.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\bin\Debug\netcoreapp2.0\p18_Different Integers Size.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\bin\Debug\netcoreapp2.0\p18_Different Integers Size.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\bin\Debug\netcoreapp2.0\p18_Different Integers Size.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\bin\Debug\netcoreapp2.0\p18_Different Integers Size.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\bin\Debug\netcoreapp2.0\p18_Different Integers Size.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\03. Datatypes and Variables\Data types and variables Exercises\p18_Different Integers Size\obj\Debug\netcoreapp2.0\p18_Different Integers Size.pdb

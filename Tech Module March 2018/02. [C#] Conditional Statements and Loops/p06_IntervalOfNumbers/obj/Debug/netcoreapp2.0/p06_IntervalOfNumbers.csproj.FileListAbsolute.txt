@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\bin\Debug\netcoreapp2.0\p06_IntervalOfNumbers.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\bin\Debug\netcoreapp2.0\p06_IntervalOfNumbers.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\bin\Debug\netcoreapp2.0\p06_IntervalOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\bin\Debug\netcoreapp2.0\p06_IntervalOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\bin\Debug\netcoreapp2.0\p06_IntervalOfNumbers.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p06_IntervalOfNumbers\obj\Debug\netcoreapp2.0\p06_IntervalOfNumbers.pdb

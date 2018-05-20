@@ -1,0 +1,11 @@
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.deps.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.runtimeconfig.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.runtimeconfig.dev.json
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.AssemblyInfoInputs.cache
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.AssemblyInfo.cs
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.dll
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.pdb
+D:\SoftUni\C#Projects\Programming Fundamentals\02. Conditional Statements and Loops\Conditional Statements and Loops - Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.csprojResolveAssemblyReference.cache
