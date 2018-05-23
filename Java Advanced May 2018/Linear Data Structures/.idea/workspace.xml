@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d41a91-8848-41d6-81b1-395fdc62f34c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p02_MatrixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p04_MaximalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p08_BasicStackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p09_MaximumElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,29 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p01_FillTheMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_FillTheMatrix.java">
+      <file leaf-file-name="p05_MatrixShuffling.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p05_MatrixShuffling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="160">
+              <caret line="35" column="50" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p02_MatrixOfPalindromes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p02_MatrixOfPalindromes.java">
+      <file leaf-file-name="p06_StringMatrixRotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p06_StringMatrixRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p03_DiagonalDifference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p03_DiagonalDifference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="43">
+              <caret line="37" column="13" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,13 +37,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p04_MaximalSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p04_MaximalSum.java">
+      <file leaf-file-name="p07_ReverseNumbersWithStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p07_ReverseNumbersWithStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="31" column="13" lean-forward="true" selection-end-line="44" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p08_BasicStackOperations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p09_MaximumElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p09_MaximumElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="20" column="21" lean-forward="true" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ex9_MaximumElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ex9_MaximumElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="1251" column="31" lean-forward="true" selection-start-line="1251" selection-start-column="15" selection-end-line="1251" selection-end-column="31" />
+              <folding>
+                <element signature="e#49043#49044#0" expanded="true" />
+                <element signature="e#49082#49083#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +118,12 @@
         <option value="$PROJECT_DIR$/src/p02_MatrixOfPalindromes.java" />
         <option value="$PROJECT_DIR$/src/p03_DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/p04_MaximalSum.java" />
+        <option value="$PROJECT_DIR$/src/p05_MatrixShuffling.java" />
+        <option value="$PROJECT_DIR$/src/p06_StringMatrixRotation.java" />
+        <option value="$PROJECT_DIR$/src/p07_ReverseNumbersWithStack.java" />
+        <option value="$PROJECT_DIR$/src/p08_BasicStackOperations.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/p09_MaximumElement.java" />
       </list>
     </option>
   </component>
@@ -128,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/SoftUni Main/Java Fundamentals/Old Exercises/Matrixes/MySolutions/Exercises/src/p02_MatrixOfPalindromes.java" />
+    <property name="last_opened_file_path" value="D:/SoftUni Main/Java Fundamentals/Old Exercises/Matrixes/MySolutions/Exercises/src/p11_StringMatrixRotation.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -145,30 +189,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p04_MaximalSum">
+  <component name="RunManager" selected="Application.p09_MaximumElement">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p01_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01_FillTheMatrix" />
+    <configuration name="p05_MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05_MatrixShuffling" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p02_MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p02_MatrixOfPalindromes" />
+    <configuration name="p06_StringMatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p06_StringMatrixRotation" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p03_DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03_DiagonalDifference" />
+    <configuration name="p07_ReverseNumbersWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p07_ReverseNumbersWithStack" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p04_MaximalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04_MaximalSum" />
+    <configuration name="p08_BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p08_BasicStackOperations" />
+      <module name="02. Linear Data Structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="p09_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p09_MaximumElement" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -226,17 +275,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.p01_FillTheMatrix" />
-      <item itemvalue="Application.p02_MatrixOfPalindromes" />
-      <item itemvalue="Application.p03_DiagonalDifference" />
-      <item itemvalue="Application.p04_MaximalSum" />
+      <item itemvalue="Application.p05_MatrixShuffling" />
+      <item itemvalue="Application.p06_StringMatrixRotation" />
+      <item itemvalue="Application.p07_ReverseNumbersWithStack" />
+      <item itemvalue="Application.p08_BasicStackOperations" />
+      <item itemvalue="Application.p09_MaximumElement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p04_MaximalSum" />
-        <item itemvalue="Application.p03_DiagonalDifference" />
-        <item itemvalue="Application.p02_MatrixOfPalindromes" />
-        <item itemvalue="Application.p01_FillTheMatrix" />
+        <item itemvalue="Application.p09_MaximumElement" />
+        <item itemvalue="Application.p08_BasicStackOperations" />
+        <item itemvalue="Application.p07_ReverseNumbersWithStack" />
+        <item itemvalue="Application.p06_StringMatrixRotation" />
+        <item itemvalue="Application.p05_MatrixShuffling" />
       </list>
     </recent_temporary>
   </component>
@@ -251,27 +302,43 @@
       <option name="presentableId" value="Default" />
       <updated>1526823154744</updated>
       <workItem from="1526823161244" duration="3701000" />
-      <workItem from="1526851378416" duration="8259000" />
+      <workItem from="1526851378416" duration="38139000" />
     </task>
+    <task id="LOCAL-00001" summary="add new solutions">
+      <created>1526886837505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526886837505</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new solutions">
+      <created>1526914341858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526914341858</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11960000" />
+    <option name="totallyTimeSpent" value="41840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32876712" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50292826" side_tool="true" weight="0.42677164" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50226927" side_tool="true" weight="0.30650684" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32363012" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.30650684" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
@@ -282,7 +349,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.42636988" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.5650685" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Nl-Palette" order="2" />
@@ -299,6 +366,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solutions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -309,8 +380,28 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/p06_StringMatrixRotation.java</url>
+          <line>51</line>
+          <properties class="p06_StringMatrixRotation" method="fillMatrix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p05_MatrixShuffling.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p06_StringMatrixRotation.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -355,20 +446,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_MatrixOfPalindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/p04_MaximalSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="31" column="13" lean-forward="true" selection-end-line="44" />
+        <state relative-caret-position="451">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p02_MatrixOfPalindromes.java">
+    <entry file="file://$PROJECT_DIR$/src/p05_MatrixShuffling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="160">
+          <caret line="35" column="50" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SoftUni Main/Java Fundamentals/Old Exercises/Matrixes/MySolutions/Exercises/src/p11_StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p06_StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="37" column="13" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p07_ReverseNumbersWithStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="1251" column="31" lean-forward="true" selection-start-line="1251" selection-start-column="15" selection-end-line="1251" selection-end-column="31" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex9_MaximumElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_MaximumElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="21" lean-forward="true" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
