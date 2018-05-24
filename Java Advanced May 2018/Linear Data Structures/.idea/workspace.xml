@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d41a91-8848-41d6-81b1-395fdc62f34c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p08_BasicStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p09_MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p10_BasicQueueOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p11_Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p12_BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p13_RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p14_SimpleTextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p15_InfixToPostfix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,44 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p05_MatrixShuffling.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p05_MatrixShuffling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="35" column="50" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p06_StringMatrixRotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p06_StringMatrixRotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="37" column="13" selection-end-line="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p07_ReverseNumbersWithStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p07_ReverseNumbersWithStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="p08_BasicStackOperations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="255">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p09_MaximumElement.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p09_MaximumElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p09_MaximumElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="21" lean-forward="true" selection-end-line="43" />
+            <state relative-caret-position="136">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ex9_MaximumElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ex9_MaximumElement.java">
+      <file leaf-file-name="p12_BalancedParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p12_BalancedParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="153">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,14 +56,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+      <file leaf-file-name="p13_RecursiveFibonacci.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p13_RecursiveFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="1251" column="31" lean-forward="true" selection-start-line="1251" selection-start-column="15" selection-end-line="1251" selection-end-column="31" />
+            <state relative-caret-position="187">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#49043#49044#0" expanded="true" />
-                <element signature="e#49082#49083#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p14_SimpleTextEditor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p14_SimpleTextEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p15_InfixToPostfix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p15_InfixToPostfix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="26" column="20" lean-forward="true" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +118,12 @@
         <option value="$PROJECT_DIR$/src/p08_BasicStackOperations.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/p09_MaximumElement.java" />
+        <option value="$PROJECT_DIR$/src/p10_BasicQueueOperations.java" />
+        <option value="$PROJECT_DIR$/src/p11_Robotics.java" />
+        <option value="$PROJECT_DIR$/src/p12_BalancedParentheses.java" />
+        <option value="$PROJECT_DIR$/src/p13_RecursiveFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/p14_SimpleTextEditor.java" />
+        <option value="$PROJECT_DIR$/src/p15_InfixToPostfix.java" />
       </list>
     </option>
   </component>
@@ -189,35 +189,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p09_MaximumElement">
+  <component name="RunManager" selected="Application.p15_InfixToPostfix">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p05_MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p05_MatrixShuffling" />
+    <configuration name="p11_Robotics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p11_Robotics" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p06_StringMatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p06_StringMatrixRotation" />
+    <configuration name="p12_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p12_BalancedParentheses" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p07_ReverseNumbersWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p07_ReverseNumbersWithStack" />
+    <configuration name="p13_RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p13_RecursiveFibonacci" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p08_BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p08_BasicStackOperations" />
+    <configuration name="p14_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p14_SimpleTextEditor" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="p09_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p09_MaximumElement" />
+    <configuration name="p15_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p15_InfixToPostfix" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -275,19 +275,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.p05_MatrixShuffling" />
-      <item itemvalue="Application.p06_StringMatrixRotation" />
-      <item itemvalue="Application.p07_ReverseNumbersWithStack" />
-      <item itemvalue="Application.p08_BasicStackOperations" />
-      <item itemvalue="Application.p09_MaximumElement" />
+      <item itemvalue="Application.p11_Robotics" />
+      <item itemvalue="Application.p12_BalancedParentheses" />
+      <item itemvalue="Application.p13_RecursiveFibonacci" />
+      <item itemvalue="Application.p14_SimpleTextEditor" />
+      <item itemvalue="Application.p15_InfixToPostfix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p09_MaximumElement" />
-        <item itemvalue="Application.p08_BasicStackOperations" />
-        <item itemvalue="Application.p07_ReverseNumbersWithStack" />
-        <item itemvalue="Application.p06_StringMatrixRotation" />
-        <item itemvalue="Application.p05_MatrixShuffling" />
+        <item itemvalue="Application.p15_InfixToPostfix" />
+        <item itemvalue="Application.p14_SimpleTextEditor" />
+        <item itemvalue="Application.p13_RecursiveFibonacci" />
+        <item itemvalue="Application.p12_BalancedParentheses" />
+        <item itemvalue="Application.p11_Robotics" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +302,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526823154744</updated>
       <workItem from="1526823161244" duration="3701000" />
-      <workItem from="1526851378416" duration="38139000" />
+      <workItem from="1526851378416" duration="82879000" />
     </task>
     <task id="LOCAL-00001" summary="add new solutions">
       <created>1526886837505</created>
@@ -318,15 +318,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526914341858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new solutions">
+      <created>1527061974720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527061974720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41840000" />
+    <option name="totallyTimeSpent" value="86580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -338,7 +344,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.30650684" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3458904" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
@@ -349,7 +355,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.5650685" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.40068492" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Nl-Palette" order="2" />
@@ -400,8 +406,31 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p11_Robotics.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p13_RecursiveFibonacci.java</url>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p14_SimpleTextEditor.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p15_InfixToPostfix.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="56" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -495,16 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -518,7 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ex9_MaximumElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="323">
           <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -528,8 +547,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p09_MaximumElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="21" lean-forward="true" selection-end-line="43" />
+        <state relative-caret-position="136">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p10_BasicQueueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p11_Robotics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p12_BalancedParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p13_RecursiveFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="242" column="25" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p14_SimpleTextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p15_InfixToPostfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="26" column="20" lean-forward="true" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
