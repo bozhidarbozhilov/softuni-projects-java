@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d41a91-8848-41d6-81b1-395fdc62f34c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p10_BasicQueueOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p11_Robotics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p12_BalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p13_RecursiveFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p14_SimpleTextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p15_InfixToPostfix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p16_PoisonousPlants.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p08_BasicStackOperations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p08_BasicStackOperations.java">
+      <file leaf-file-name="p16_PoisonousPlants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p16_PoisonousPlants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="281">
+              <caret line="28" column="18" lean-forward="true" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,59 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p09_MaximumElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p09_MaximumElement.java">
+      <file leaf-file-name="p16_1_PoisonousPlants.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p16_1_PoisonousPlants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p12_BalancedParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p12_BalancedParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p13_RecursiveFibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p13_RecursiveFibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p14_SimpleTextEditor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p14_SimpleTextEditor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p15_InfixToPostfix.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p15_InfixToPostfix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="26" column="20" lean-forward="true" selection-end-line="60" />
+            <state relative-caret-position="161">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,6 +70,8 @@
         <option value="$PROJECT_DIR$/src/p13_RecursiveFibonacci.java" />
         <option value="$PROJECT_DIR$/src/p14_SimpleTextEditor.java" />
         <option value="$PROJECT_DIR$/src/p15_InfixToPostfix.java" />
+        <option value="$PROJECT_DIR$/src/p16_1_PoisonousPlants.java" />
+        <option value="$PROJECT_DIR$/src/p16_PoisonousPlants.java" />
       </list>
     </option>
   </component>
@@ -189,21 +137,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p15_InfixToPostfix">
+  <component name="RunManager" selected="Application.p16_1_PoisonousPlants">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="p11_Robotics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p11_Robotics" />
-      <module name="02. Linear Data Structures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="p12_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p12_BalancedParentheses" />
-      <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="p13_RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -218,6 +156,16 @@
     </configuration>
     <configuration name="p15_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p15_InfixToPostfix" />
+      <module name="02. Linear Data Structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="p16_1_PoisonousPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p16_1_PoisonousPlants" />
+      <module name="02. Linear Data Structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="p16_PoisonousPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p16_PoisonousPlants" />
       <module name="02. Linear Data Structures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -275,19 +223,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.p11_Robotics" />
-      <item itemvalue="Application.p12_BalancedParentheses" />
       <item itemvalue="Application.p13_RecursiveFibonacci" />
       <item itemvalue="Application.p14_SimpleTextEditor" />
       <item itemvalue="Application.p15_InfixToPostfix" />
+      <item itemvalue="Application.p16_PoisonousPlants" />
+      <item itemvalue="Application.p16_1_PoisonousPlants" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p16_1_PoisonousPlants" />
+        <item itemvalue="Application.p16_PoisonousPlants" />
         <item itemvalue="Application.p15_InfixToPostfix" />
         <item itemvalue="Application.p14_SimpleTextEditor" />
         <item itemvalue="Application.p13_RecursiveFibonacci" />
-        <item itemvalue="Application.p12_BalancedParentheses" />
-        <item itemvalue="Application.p11_Robotics" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +250,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526823154744</updated>
       <workItem from="1526823161244" duration="3701000" />
-      <workItem from="1526851378416" duration="82879000" />
+      <workItem from="1526851378416" duration="95230000" />
     </task>
     <task id="LOCAL-00001" summary="add new solutions">
       <created>1526886837505</created>
@@ -325,14 +273,22 @@
       <option name="project" value="LOCAL" />
       <updated>1527061974720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add new solutions">
+      <created>1527168385376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527168385392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86580000" />
+    <option name="totallyTimeSpent" value="98931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -344,7 +300,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3458904" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.3458904" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
@@ -355,7 +311,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.40068492" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.44006848" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Nl-Palette" order="2" />
@@ -429,8 +385,20 @@
           <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p16_1_PoisonousPlants.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p16_PoisonousPlants.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="56" />
+      <option name="time" value="63" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -631,8 +599,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p15_InfixToPostfix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="26" column="20" lean-forward="true" selection-end-line="60" />
+        <state relative-caret-position="134">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p16_PoisonousPlants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="28" column="18" lean-forward="true" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p16_1_PoisonousPlants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
