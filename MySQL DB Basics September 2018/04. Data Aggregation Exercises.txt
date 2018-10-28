@@ -1,0 +1,228 @@
+-- Problem 1
+SELECT 
+    COUNT(`id`) AS 'count'
+FROM
+    `wizzard_deposits`;
+	
+-- Problem 2
+SELECT 
+    MAX(`magic_wand_size`) AS 'longest_magic_wand'
+FROM
+    `wizzard_deposits`;
+	
+-- Problem 3
+SELECT 
+    `deposit_group`,
+    MAX(`magic_wand_size`) AS 'longest_magic_wand'
+FROM
+    `wizzard_deposits`
+GROUP BY `deposit_group`
+ORDER BY `longest_magic_wand`, `deposit_group`;
+
+-- Problem 4
+SELECT 
+    `deposit_group`
+FROM
+    (SELECT 
+		`deposit_group`,
+        AVG(`magic_wand_size`) AS `wand_size`
+    FROM
+        `wizzard_deposits`
+    GROUP BY `deposit_group`
+    ORDER BY `wand_size` LIMIT 1) as `dt`;
+	
+	
+-- Problem 5
+SELECT 
+    `deposit_group`, SUM(`deposit_amount`) AS 'total_sum'
+FROM `wizzard_deposits`
+GROUP BY `deposit_group`
+ORDER BY `total_sum`;
+
+-- Problem 6
+SELECT 
+    `deposit_group`, SUM(`deposit_amount`) AS 'total_sum'
+FROM
+    (SELECT 
+        `deposit_group`, `magic_wand_creator`, `deposit_amount`
+    FROM
+        `wizzard_deposits`
+    WHERE
+        `magic_wand_creator` = 'Ollivander family') AS `dt`
+GROUP BY `deposit_group`
+ORDER BY `deposit_group`;
+
+-- Problem 7
+SELECT 
+    `deposit_group`, SUM(`deposit_amount`) AS 'total_sum'
+FROM
+    (SELECT 
+        `deposit_group`, `magic_wand_creator`, `deposit_amount`
+    FROM
+        `wizzard_deposits`
+    WHERE
+        `magic_wand_creator` = 'Ollivander family') AS `dt`
+GROUP BY `deposit_group`
+HAVING `total_sum` < 150000
+ORDER BY `total_sum` DESC;
+
+
+-- Problem 8
+SELECT 
+    `deposit_group`, `magic_wand_creator`, MIN(`deposit_charge`) AS 'min_deposit_charge'
+FROM
+    `wizzard_deposits`
+GROUP BY `deposit_group`, `magic_wand_creator`
+ORDER BY `magic_wand_creator`, `deposit_group`;
+
+
+-- Problem 9
+SELECT 
+    CASE
+        WHEN `age` BETWEEN 0 AND 10 THEN '[0-10]'
+        WHEN `age` BETWEEN 11 AND 20 THEN '[11-20]'
+        WHEN `age` BETWEEN 21 AND 30 THEN '[21-30]'
+        WHEN `age` BETWEEN 31 AND 40 THEN '[31-40]'
+        WHEN `age` BETWEEN 41 AND 50 THEN '[41-50]'
+        WHEN `age` BETWEEN 51 AND 60 THEN '[51-60]'
+        WHEN `age` >= 61 THEN '[61+]'
+    END AS 'age_group',
+    COUNT(*) AS wizard_count
+FROM
+    `wizzard_deposits`
+GROUP BY `age_group` ASC;
+
+
+-- Problem 10
+SELECT 
+    SUBSTR(`first_name`, 1, 1) AS 'first_letter'
+FROM
+    (SELECT 
+        `first_name`, `deposit_group`
+    FROM
+        `wizzard_deposits`
+    WHERE
+        `deposit_group` = 'Troll Chest') AS `dt`
+GROUP BY `first_letter`
+ORDER BY `first_letter` ASC;
+
+
+-- Problem 11
+SELECT 
+    `deposit_group`,
+    `is_deposit_expired`,
+    AVG(`deposit_interest`) AS `average_interest`
+FROM
+    (SELECT 
+        `deposit_group`,
+            `deposit_start_date`,
+            `deposit_interest`,
+            `is_deposit_expired`
+    FROM
+        `wizzard_deposits`
+    WHERE
+        `deposit_start_date`>'1985-01-01') AS `dt`
+GROUP BY `deposit_group` , `is_deposit_expired`
+ORDER BY `deposit_group` DESC , `is_deposit_expired`;
+
+
+-- Problem 12
+SELECT 
+	SUM(`difference`) AS 'sum_difference'
+FROM
+(SELECT
+    `wd1`.`deposit_amount` - `wd2`.`deposit_amount` AS 'difference'
+FROM
+	`wizzard_deposits` `wd1` INNER JOIN `wizzard_deposits` `wd2` ON `wd2`.`id` = `wd1`.`id`+1
+GROUP BY `wd1`.`id`) AS `dt`;
+
+-- Problem 13
+SELECT `department_id`, MIN(`salary`) AS 'minimum_salary'
+FROM (SELECT `department_id`, `salary` FROM `employees` WHERE `hire_date`>'2000-01-01' AND `department_id` IN (2, 5, 7)) AS `dt`
+GROUP BY `department_id`
+ORDER BY `department_id`;
+
+-- Problem 14
+CREATE TABLE 
+	`high_paid_employees` 
+	SELECT * FROM `employees` WHERE `salary` > 30000;
+DELETE FROM `high_paid_employees` WHERE `manager_id` = 42;
+UPDATE `high_paid_employees`
+SET `salary` = `salary`+ 5000
+WHERE `department_id` = 1;
+SELECT `department_id`, AVG(`salary`)
+FROM `high_paid_employees`
+GROUP BY `department_id`
+ORDER BY `department_id`;
+
+-- Problem 15
+SELECT `department_id`, MAX(`salary`) AS 'max_salary'
+FROM `employees`
+GROUP BY `department_id`
+HAVING `max_salary` NOT BETWEEN 30000 AND 70000
+ORDER BY `department_id`;
+
+-- Problem 16
+SELECT COUNT(`salary`) AS 'salaries_count'
+FROM `employees`
+WHERE `manager_id` IS NULL
+GROUP BY `manager_id`;
+
+-- Problem 17 v.1
+SELECT 
+    `department_id`, MAX(`salary`) AS 'third_highest_salary'
+FROM
+    `employees` `e1`
+WHERE
+    `salary` < (SELECT 
+            MAX(`salary`)
+        FROM
+            `employees` `e2`
+        WHERE
+            `e1`.`department_id` = `e2`.`department_id`
+                AND `salary` < (SELECT 
+                    MAX(`salary`)
+                FROM
+                    `employees` `e3`
+                WHERE
+                    `e3`.`department_id` = `e2`.`department_id`))
+GROUP BY `department_id`
+ORDER BY `department_id`;
+
+-- Problem 17 v.2
+SELECT 
+    `department_id`, `salary` AS 'third_highest_salary'
+FROM
+    `employees` `e1`
+WHERE
+    2 = (SELECT COUNT(DISTINCT(`salary`)) FROM `employees` `e2`
+                WHERE `e2`.`salary`>`e1`.`salary` AND
+                    `e1`.`department_id` = `e2`.`department_id`)
+GROUP BY `department_id`
+ORDER BY `department_id`;
+
+-- Problem 18
+SELECT 
+    e1.first_name, e1.last_name, e1.department_id
+FROM
+    employees e1
+        INNER JOIN
+    (SELECT 
+            e2.department_id,
+            AVG(e2.salary) AS 'avg_salary'
+    FROM
+        employees e2
+    GROUP BY e2.department_id) AS `dt` ON e1.department_id = dt.department_id
+WHERE
+    e1.salary > dt.avg_salary
+GROUP BY e1.department_id , e1.first_name
+ORDER BY e1.department_id, e1.employee_id
+LIMIT 10;
+
+-- Problem 19
+SELECT 
+   e1.department_id, sum(e1.salary)
+FROM
+    employees e1
+GROUP BY e1.department_id
+ORDER BY e1.department_id;
