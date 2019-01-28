@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style>
+        body{
+            text-align: center;
+        }
+        form label, a{
+            display: block;
+            margin: 10px
+        }
+    </style>
+    <title>FDMC <3</title>
+</head>
+<body>
+    <h1>Create a Cat</h1>
+    <form action="/cats/create" method="post">
+        <label for="catName">
+            Name:
+            <input type="text" id="catName" placeholder="Enter Cat's Name" name = "name"/>
+        </label>
+        <label for="catBreed">
+            Breed:
+            <input type="text" id="catBreed" placeholder="Enter Cat's Breed" name = "breed"/>
+        </label>
+        <label for="catColor">
+            Color:
+            <input type="text" id="catColor" placeholder="Enter Cat's Color" name = "color"/>
+        </label>
+        <label for="catAge">
+            Age:
+            <input type="number" id="catAge" placeholder="Enter Cat's Age" name = "age"/>
+        </label>
+        <button type="submit">Create Cat</button>
+        <a href="/">Back to Home</a>
+    </form>
+</body>
+</html>
