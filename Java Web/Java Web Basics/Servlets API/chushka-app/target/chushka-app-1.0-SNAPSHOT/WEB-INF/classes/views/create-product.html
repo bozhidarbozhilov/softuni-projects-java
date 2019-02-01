@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chushka</title>
+    <style>
+
+        .mainContainer{
+            padding: 3% 5%;
+            width: 70%;
+            margin: 0 auto;
+            background-color: lightgray;
+            text-align: center;
+
+        }
+
+        label,input, textarea, select, button {
+            display: block;
+            position: center;
+            margin:10px auto 0 auto
+        }
+        input, textarea, select{
+            width: 250px;
+            height: 30px;
+        }
+        textarea{
+            height: 100px;
+        }
+        button{
+            color: navy;
+            text-decoration: none;
+            padding: 5px;
+            border-radius: 5px;
+            background-color:lightblue;
+        }
+
+        button:hover{
+            background-color:beige;
+        }
+        hr{
+            margin: 30px;
+        }
+        a{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="mainContainer">
+    <h1>Welcome to Chushka Application</h1>
+    <hr/>
+    <form action="/products/create" method="post">
+        <label for="name">Name:
+            <input type="text" name="name" id="name"/>
+        </label>
+        <label for="description">Description:
+            <textarea name="description" id="description" cols="30" rows="10">
+        </textarea>
+        </label>
+        <label for="type">Product Type:
+            <select name="product-type" id="type">
+                <option value="choose" selected>Choose Type...</option>
+                <option value="Food">Food</option>
+                <option value="Domestic">Domestic</option>
+                <option value="Health">Health</option>
+                <option value="Cosmetic">Cosmetic</option>
+                <option value="Other">Other</option>
+            </select>
+        </label>
+        <button type="submit">Create Product</button>
+    </form>
+    <hr/>
+    <a href="/">Back to Home page</a>
+</div>
+
+</body>
+</html>

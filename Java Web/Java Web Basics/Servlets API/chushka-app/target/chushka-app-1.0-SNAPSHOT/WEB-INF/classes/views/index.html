@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chushka</title>
+    <style>
+        .mainContainer{
+            padding: 3% 5%;
+            width: 70%;
+            margin: 0 auto;
+            background-color: lightgray;
+            text-align: center;
+        }
+
+        button{
+            color: navy;
+            text-decoration: none;
+            padding: 5px;
+            border-radius: 5px;
+            background-color:lightblue;
+        }
+
+        button:hover{
+            background-color:beige;
+        }
+        hr{
+            margin: 30px;
+        }
+    </style>
+</head>
+<body>
+<div class="mainContainer">
+    <h1>Welcome to Chushka Application</h1>
+    <hr/>
+    <p>
+        Check our products below!
+    </p>
+    <ul>
+        {{allProductsList}}
+    </ul>
+    <button type="submit" onclick="location.href='/products/create'">Create Product</button>
+</div>
+</body>
+</html>
