@@ -1,0 +1,27 @@
+.mainContainer{
+    padding: 3% 5%;
+    width: 70%;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align: center;
+}
+button{
+    color: navy;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:lightblue;
+}
+
+.buttonContainer{
+    display: inline-block;
+    width: 40%;
+    justify-content: center;
+}
+
+button:hover{
+    background-color:beige;
+}
+hr{
+    margin: 30px;
+}
