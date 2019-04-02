@@ -16,7 +16,7 @@ public class CarServiceModel {
     private Integer yearOfProduction;
     private String vin;
     private Integer currentMileage;
-    private User owner;
+    private UserServiceModel owner;
     private EngineType engineType;
 
     public String getId() {
@@ -81,11 +81,11 @@ public class CarServiceModel {
         this.currentMileage = currentMileage;
     }
 
-    public User getOwner() {
+    public UserServiceModel getOwner() {
         return owner;
     }
 
-    public void setOwner(User owner) {
+    public void setOwner(UserServiceModel owner) {
         this.owner = owner;
     }
 

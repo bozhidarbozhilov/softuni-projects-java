@@ -19,4 +19,5 @@ public class Constants {
     public static final String CAR_MODEL_ERROR_MESSAGE = "Car model cannot be empty.";
     public static final String PLATE_NUMBER_ERROR_MESSAGE = "Plate Number cannot be empty.";
     public static final String MANUFACTURER_ERROR_MESSAGE = "Manufacturer cannot be empty.";
+    public static final String CAR_INVALID_MODEL_MESSAGE = "Car Invalid Model";
 }
