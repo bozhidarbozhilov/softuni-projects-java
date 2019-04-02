@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/head}">
+</head>
+<body>
+<header th:replace="~{fragments/header}"></header>
+<main class="jumbotron">
+    <h1 class="text-center">Add Car</h1>
+    <form th:action="@{/cars/create}" th:method="post" th:object="${carCreateBinding}">
+        <div class="form-group mx-auto w-25 text-center"
+             th:classappend="${#fields.hasErrors('plateNumber')}?'text-danger'">
+            <label for="plateNumber">Plate Number</label>
+            <input class="form-control" type="text" id="plateNumber" th:field="*{plateNumber}"
+                   placeholder="Car Plate Number..."/>
+            <small th:each="error:${#fields.errors('plateNumber')}" th:text="${error}">
+            </small>
+        </div>
+        <div class="form-group col-md-5 text-center mx-auto"
+             th:classappend="${#fields.hasErrors('manufacturer')}?'text-danger'">
+            <label for="manufacturer">Car Manufacturer</label>
+            <input class="form-control" type="text" id="manufacturer" th:field="*{manufacturer}"
+                   placeholder="Car Manufacturer..."/>
+            <small th:each="error:${#fields.errors('manufacturer')}" th:text="${error}">
+            </small>
+        </div>
+        <div class="form-group col-md-5 text-center mx-auto"
+             th:classappend="${#fields.hasErrors('model')}?'text-danger'">
+            <label for="model">Car Model</label>
+            <input class="form-control" type="text" id="model" th:field="*{model}"
+                   placeholder="Car Model..."/>
+            <small th:each="error:${#fields.errors('model')}" th:text="${error}">
+            </small>
+        </div>
+
+            <div class="form-group col-md-2 mx-auto text-center"
+                 th:classappend="${#fields.hasErrors('yearOfProduction')}?'text-danger'">
+                <label for="yearOfProduction">Year of Production</label>
+                <input class="form-control" type="number" id="yearOfProduction" th:field="*{yearOfProduction}"
+                       placeholder="Year of Production..."/>
+                <small th:each="error:${#fields.errors('yearOfProduction')}" th:text="${error}">
+                </small>
+            </div>
+        <div class="form-group col-md-5 text-center mx-auto" th:classappend="${#fields.hasErrors('vin')}?'text-danger'">
+            <label for="vin">Car's VIN</label>
+            <input class="form-control" type="text" id="vin" th:field="*{vin}"
+                   placeholder="VIN..."/>
+            <small th:each="error:${#fields.errors('vin')}" th:text="${error}">
+            </small>
+        </div>
+            <div class="form-group col-md-2 mx-auto text-center"
+                 th:classappend="${#fields.hasErrors('currentMileage')}?'text-danger'">
+                <label for="currentMileage">Car's Current Mileage</label>
+                <input class="form-control" type="number" id="currentMileage" th:field="*{currentMileage}"
+                       placeholder="Mileage..."/>
+                <small th:each="error:${#fields.errors('currentMileage')}" th:text="${error}">
+                </small>
+            </div>
+
+            <div class="form-group col-md-2 mx-auto text-center"
+                 th:classappend="${#fields.hasErrors('engineType')}?'text-danger'">
+                <label for="engineType">Select Engine Type</label>
+                <select class="form-control" type="text" id="engineType" th:field="*{engineType}">
+                    <option selected value="">Engine type...</option>
+                    <option th:each="type : ${T(com.bozhilov.boocarep.domain.entities.tech.EngineType).values()}"
+                            th:value="${type}"
+                            th:text="${#strings.capitalize(#strings.toLowerCase(type))}">
+                    </option>
+                </select>
+                <small th:each="error:${#fields.errors('engineType')}" th:text="${error}">
+                </small>
+            </div>
+        <div class="form-group mx-auto w-50 text-center mt-5">
+            <button class="btn bc-background btn-primary w-25">
+                Add Car</button>
+        </div>
+        
+    </form>
+</main>
+<footer th:replace="~{fragments/footer}"></footer>
+</body>
+</html>

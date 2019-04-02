@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/head}">
+</head>
+<body>
+<header th:replace="~{fragments/header}"></header>
+<main class="jumbotron">
+    <h1 class="text-center">Create Employee Profile</h1>
+    <form th:action="@{/employees/register}" th:method="post" th:object="${employeeBinding}">
+        <div class="form-group mx-auto w-50 text-center" th:classappend="${#fields.hasErrors('username')}?'text-danger'">
+            <label for="username">Username</label>
+            <input class="form-control" type="text" id="username" th:field="*{username}" placeholder="Username..."/>
+            <small th:each="error:${#fields.errors('username')}" th:text="${error}">
+            </small>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('password')}?'text-danger'">
+                <label for="password">Password</label>
+                <input class="form-control" type="password" id="password" th:field="*{password}" placeholder="Password..."/>
+                <small th:each="error:${#fields.errors('password')}" th:text="${error}">
+                </small>
+            </div>
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('confirmPassword')}?'text-danger'">
+                <label for="confirmPassword">Confirm Password</label>
+                <input class="form-control" type="password" id="confirmPassword" th:field="*{confirmPassword}"
+                       placeholder="Confirm Password..."/>
+                <small th:each="error:${#fields.errors('confirmPassword')}" th:text="${error}">
+                </small>
+            </div>
+        </div>
+        <div class="form-group mx-auto w-50 text-center" th:classappend="${#fields.hasErrors('email')}?'text-danger'">
+            <label for="email">Email</label>
+            <input class="form-control" type="text" id="email" th:field="*{email}"
+                   placeholder="Your Email..."/>
+            <small th:each="error:${#fields.errors('email')}" th:text="${error}">
+            </small>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('firstName')}?'text-danger'">
+                <label for="firstName">First Name</label>
+                <input class="form-control" type="text" id="firstName" th:field="*{firstName}"
+                       placeholder="First Name..."/>
+                <small th:each="error:${#fields.errors('firstName')}" th:text="${error}">
+                </small>
+            </div>
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('lastName')}?'text-danger'">
+                <label for="lastName">Last Name</label>
+                <input class="form-control" type="text" id="lastName" th:field="*{lastName}"
+                       placeholder="Last Name..."/>
+                <small th:each="error:${#fields.errors('lastName')}" th:text="${error}">
+                </small>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('department')}?'text-danger'">
+                <label for="department">Department</label>
+                <input class="form-control" type="text" id="department" th:field="*{department}" placeholder="Department..."/>
+                <small th:each="error:${#fields.errors('department')}" th:text="${error}">
+                </small>
+            </div>
+            <div class="form-group col-md-6 text-center" th:classappend="${#fields.hasErrors('jobTitle')}?'text-danger'">
+                <label for="jobTitle">Job Title</label>
+                <input class="form-control" type="text" id="jobTitle" th:field="*{jobTitle}"
+                       placeholder="Job Title..."/>
+                <small th:each="error:${#fields.errors('jobTitle')}" th:text="${error}">
+                </small>
+            </div>
+        </div>
+        <div class="form-group mx-auto w-50 text-center" th:classappend="${#fields.hasErrors('hourlyPay')}?'text-danger'">
+            <label for="hourlyPay">Hourly Pay</label>
+            <input class="form-control" type="number" id="hourlyPay" th:field="*{hourlyPay}" placeholder="Hourly Pay..."/>
+            <small th:each="error:${#fields.errors('hourlyPay')}" th:text="${error}">
+            </small>
+        </div>
+        <div class="form-group mx-auto w-50 text-center">
+            <button class="btn bc-background btn-primary w-25">Register Employee</button>
+        </div>
+    </form>
+</main>
+<footer th:replace="~{fragments/footer}"></footer>
+</body>
+</html>
