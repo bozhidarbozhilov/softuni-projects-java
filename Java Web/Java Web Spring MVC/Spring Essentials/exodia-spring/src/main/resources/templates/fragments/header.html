@@ -1,0 +1,48 @@
+<header th:fragment="guest-navbar">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-exodia rounded">
+        <a class="navbar-brand nav-link-white" th:href="@{/}" th:text="EXODIA"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/}" th:text="Home"></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/login}" th:text="Login"></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/register}" th:text="Register"></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<header th:fragment="user-navbar">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-exodia rounded">
+        <a class="navbar-brand nav-link-white" th:href="@{/home}">EXODIA</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/home}" th:text="Home"></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/schedule}" th:text="Schedule"></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-white active" th:href="@{/logout}" th:text="Logout">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>

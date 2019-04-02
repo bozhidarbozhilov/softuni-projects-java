@@ -1,0 +1,33 @@
+<div class="container virusContainer" th:fragment="allViruses">
+    <h1>All Viruses</h1>
+    <hr>
+    <div class="table-responsive m-2">
+        <table class="container table-hover">
+            <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Magnitude</th>
+                <th>Released On</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="virus, count:${allViruses}" th:object="${virus}">
+                <td th:text="${count.count}"></td>
+                <td th:text="*{name}"></td>
+                <td th:text="*{magnitude}"></td>
+                <td th:text="${#dates.format(virus.releasedOn,'dd-MMM-yyyy')}"></td>
+                <td><a class="btn btn-light border-dark text-dark" th:href="@{/viruses/edit/{id}(id=*{id})}" th:text="Edit">
+                </a>
+                </td>
+                <td>
+                    <a class="btn btn-light border-dark text-dark" th:href="@{/viruses/delete/{id}(id=*{id})}" th:text="Delete">
+                    </a>
+                </td>
+            </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</div>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/head}">
+</head>
+<body>
+<div class="container-fluid">
+    <header th:replace="~{fragments/header::user-navbar}">
+    </header>
+    <main class="mt-3">
+        <hr class="bg-exodia hr-2"/>
+        <h1 class="text-center text-exodia" th:text="|Document ${printDetails.id}|"></h1>
+        <hr class="bg-exodia hr-2 w-75"/>
+        <form class="mx-auto w-75"  th:method="post" th:action="@{/print/{id}(id=${printDetails.id})}">
+            <div class="form-group">
+                <div class="label-center d-flex justify-content-center">
+                    <label th:for="title" class="text-exodia h3" th:text="Title"></label>
+                </div>
+                <input type="text" class="form-control" th:field="${printDetails.title}" th:value="${printDetails.title}" disabled="disabled" />
+            </div>
+            <div class="form-group">
+                <div class="label-center d-flex justify-content-center">
+                    <label th:for="content" class="text-exodia h3" th:text="Content"></label>
+                </div>
+                <textarea class="form-control" th:field="${printDetails.content}" rows="10" th:value="${printDetails.content}" disabled="disabled">
+                </textarea>
+            </div>
+            <hr class="bg-exodia hr-2"/>
+            <div class="button-holder d-flex justify-content-center">
+                <button type="submit" class="btn bg-exodia text-white">Print</button>
+            </div>
+        </form>
+        <hr class="bg-exodia hr-2 mt-5"/>
+    </main>
+    <footer th:replace="~{fragments/footer}">
+    </footer>
+</div>
+</body>
+</html>

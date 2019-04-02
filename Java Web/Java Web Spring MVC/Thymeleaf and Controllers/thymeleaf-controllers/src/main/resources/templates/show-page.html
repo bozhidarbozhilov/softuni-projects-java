@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/head}">
+</head>
+<body>
+<div class="container-fluid">
+    <header th:replace="~{fragments/header}"></header>
+    <main>
+        <div class="container">
+            <h1>Your Choice</h1>
+            <div class="form-check-inline">
+                <label class="form-check-label">
+                    <input type="radio" class="form-check-input" id="virusesButton" name="virusesRadio">Viruses
+                </label>
+                <label class="form-check-label">
+                    <input type="radio" class="form-check-input" id="capitalButton" name="capitalsRadio">Capitals
+                </label>
+            </div>
+            <div class="dataContainer">
+
+            </div>
+        </div>
+        <script th:inline="javascript">
+            $('#virusesButton').click(()=>{
+                fetch('http://localhost:8080/viruses/all')
+                    .then((response)=>response.json())
+                    .then((json)=>{
+
+                        json.forEach((x,y)=>{
+                            let counter = 1;
+                            $('.dataContainer').addClass("table-responsive m-2");
+                            if(y===0){
+                                $('.dataContainer').append('<table class="container table-hover"><thead><tr>\n' +
+                                    '<th>#</th><th>Name</th><th>Magnitude</th><th>Released On</th>\n' +
+                                    '<th>Actions</th></tr></thead>\n' +
+                                    '<tbody>');
+                            }
+                            let tableRow = ' <tr>\n' +
+                                '<td>' + counter++ + '</td>\n' +
+                                '<td>' + x.name + '</td>\n' +
+                                '<td>' + x.magnitude + '</td>\n'+
+                                '<td>' + x.releasedOn + '</td>\n'+
+                                '<td><form>' +
+                                '<input type="hidden" value="x.id"/>' +
+                                '<button type="submit" class="btn btn-light border-dark text-dark" ' +
+                                'formaction="/viruses/edit">Edit</button>'+
+                                '</form>' +
+                                '</td>\n'+
+                                '</tr>';
+                            $('.dataContainer .row:last-child').append(tableRow);
+                        });
+                    });
+            });
+        </script>
+    </main>
+    <footer th:replace="~{fragments/footer}"></footer>
+</div>
+</body>
+</html>

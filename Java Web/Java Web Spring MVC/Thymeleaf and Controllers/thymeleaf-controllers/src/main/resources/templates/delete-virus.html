@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/head}">
+</head>
+<body>
+<div class="container-fluid">
+    <header th:replace="~{fragments/header}"></header>
+    <main>
+        <div class="container">
+            <h1>Spread a new Virus!</h1>
+            <form method="post" th:action="@{/viruses/delete/{id}(id=${deleteModel.id})}" th:object="${deleteModel}">
+                <div class="form-group row">
+                    <label for="name">Name</label>
+                    <input class="form-control" type="text" id="name" th:field="*{name}" disabled/>
+                </div>
+                <div class="form-group row">
+                    <label for="description">Description</label>
+                    <textarea class="form-control" type="text" id="description" th:field="*{description}" rows="3"
+                              disabled>
+                </textarea>
+                </div>
+                <div class="form-group row">
+                    <label for="sideEffects">Side Effects</label>
+                    <input class="form-control" type="text" id="sideEffects" th:field="*{sideEffects}" disabled/>
+                </div>
+                <div class="form-group row">
+                    <label for="creator">Creator</label>
+                    <input class="form-control" type="text" id="creator" th:field="*{creator}" disabled/>
+                </div>
+                <div class="form-check row">
+                    <input class="form-check-input" type="checkbox" th:value="*{deadly}" th:field="*{deadly}"
+                           id="isDeadly">
+                    <label class="form-check-label" for="isDeadly">
+                        Is Deadly?
+                    </label>
+                </div>
+                <div class="form-check row">
+                    <input class="form-check-input" type="checkbox" th:value="*{curable}" th:field="*{curable}"
+                           id="isCurable">
+                    <label class="form-check-label" for="isCurable">
+                        Is Curable?
+                    </label>
+                </div>
+
+                <div class="form-check row">
+                    <input class="form-check-input" type="radio" id="zombie" th:value="ZOMBIE" th:field="*{mutation}">
+                    <label class="form-check-label" for="zombie" th:text="ZOMBIE">
+                    </label>
+                </div>
+                <div class="form-check row">
+                    <input class="form-check-input" type="radio" id="tyrand" th:value="T_078_TYRANT"
+                           th:field="*{mutation}">
+                    <label class="form-check-label" for="tyrand" th:text="T_078_TYRANT">
+                    </label>
+                </div>
+                <div class="form-check row">
+                    <input class="form-check-input" type="radio" id="spider" th:value="GIANT_SPIDER"
+                           th:field="*{mutation}">
+                    <label class="form-check-label" for="spider" th:text="GIANT_SPIDER">
+                    </label>
+                </div>
+
+                <div class="form-group row">
+                    <label for="turnoverRate">Turn Over Rate</label>
+                    <input class="form-control" type="number" id="turnoverRate" th:field="*{turnoverRate}" disabled/>
+                </div>
+                <div class="form-group row">
+                    <label for="hourUntilTurn">Hours Until Turn</label>
+                    <input class="form-control" type="number" id="hourUntilTurn" th:field="*{hourUntilTurn}" disabled/>
+                </div>
+                <div class="form-group row">
+                    <label for="magnitude">Magnitude</label>
+                    <select id="magnitude" class="form-control" th:field="*{magnitude}" disabled>
+                        <option th:value="Low">Low</option>
+                        <option th:value="Medium">Medium</option>
+                        <option th:value="High">High</option>
+                    </select>
+                </div>
+                <div class="form-group row">
+                    <label for="releasedOn">Released On</label>
+                    <input class="form-control" type="text" id="releasedOn" th:field="*{releasedOn}"
+                           th:value="*{releasedOn}" readonly/>
+                </div>
+                <div class="form-group">
+                    <label for="capitals">Affected Capitals</label>
+                    <br/>
+                    <ul id="capitals" class="list-group d-lg-table-row" th:each="capital:*{capitals}">
+                        <li class="list-group-item" th:field="${capital}" th:text="${capital}"></li>
+                    </ul>
+                </div>
+                <div class="form-group row">
+                    <button class="btn re-background btn-primary">Delete Virus</button>
+                </div>
+
+            </form>
+        </div>
+    </main>
+    <footer th:replace="~{fragments/footer}"></footer>
+</div>
+</body>
+</html>
